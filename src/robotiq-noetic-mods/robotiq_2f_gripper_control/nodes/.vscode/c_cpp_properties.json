@@ -1,0 +1,42 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/r418/laboratory/devel/include/**",
+        "/home/r418/Ur_Robot/devel/include/**",
+        "/home/r418/aruco/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/r418/my_iiwa_stack_2019_with_gripper/devel/include/**",
+        "/home/r418/aruco/src/aruco_ros/aruco/include/**",
+        "/home/r418/aruco/src/aruco_ros/aruco_ros/include/**",
+        "/home/r418/Ur_Robot/src/Universal_Robots_ROS_Driver/controller_stopper/include/**",
+        "/home/r418/my_iiwa_stack_2019_with_gripper/src/iiwa_stack-with-gripper/iiwa_hw/include/**",
+        "/home/r418/my_iiwa_stack_2019_with_gripper/src/iiwa_stack-with-gripper/iiwa_ros/include/**",
+        "/home/r418/my_iiwa_stack_2019_with_gripper/src/iiwa_stack-with-gripper/inspirehand/include/**",
+        "/home/r418/Ur_Robot/src/learning_communication/include/**",
+        "/home/r418/my_iiwa_stack_2019_with_gripper/src/my_rviz_visual_tools_gui/include/**",
+        "/home/r418/laboratory/src/robotiq-noetic-mods/robotiq_2f_gripper_action_server/include/**",
+        "/home/r418/laboratory/src/robotiq-noetic-mods/robotiq_2f_gripper_control/include/**",
+        "/home/r418/laboratory/src/robotiq-noetic-mods/robotiq_3f_gripper_articulated_gazebo_plugins/include/**",
+        "/home/r418/laboratory/src/robotiq-noetic-mods/robotiq_3f_gripper_control/include/**",
+        "/home/r418/laboratory/src/robotiq-noetic-mods/robotiq_ethercat/include/**",
+        "/home/r418/laboratory/src/robotiq-noetic-mods/robotiq_ft_sensor/include/**",
+        "/home/r418/my_iiwa_stack_2019_with_gripper/src/rviz_visual_tool_examples/include/**",
+        "/home/r418/Ur_Robot/src/Universal_Robots_ROS_Driver/ur_calibration/include/**",
+        "/home/r418/Ur_Robot/src/fmauch_universal_robot/ur_kinematics/include/**",
+        "/home/r418/Ur_Robot/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

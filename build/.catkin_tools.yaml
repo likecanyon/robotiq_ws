@@ -1,0 +1,6 @@
+devel_space: /home/likecanyon/robotiq_ws/devel
+install: false
+install_space: /home/likecanyon/robotiq_ws/install
+profile: default
+source_space: /home/likecanyon/robotiq_ws/src
+workspace: /home/likecanyon/robotiq_ws
