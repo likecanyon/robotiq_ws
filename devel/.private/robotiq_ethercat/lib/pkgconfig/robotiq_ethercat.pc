@@ -1,8 +1,0 @@
-prefix=/home/likecanyon/robotiq_ws/devel/.private/robotiq_ethercat
-
-Name: robotiq_ethercat
-Description: Description of robotiq_ethercat
-Version: 1.0.0
-Cflags: -I/home/likecanyon/robotiq_ws/src/robotiq-noetic-mods/robotiq_ethercat/include
-Libs: -L${prefix}/lib -lrobotiq_ethercat
-Requires: soem roscpp

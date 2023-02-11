@@ -1,2 +1,0 @@
-robotiq-noetic-mods/robotiq
-/home/likecanyon/robotiq_ws/devel/.private/robotiq/cmake.lock /home/likecanyon/robotiq_ws/devel/./cmake.lock
